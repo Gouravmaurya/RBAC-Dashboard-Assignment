@@ -1,4 +1,4 @@
-# Project Title
+# VRV Security
 
 ## Description
 This project is a comprehensive web application designed to provide a user-friendly interface for managing users, roles, and permissions within an organization. It is built using React, a popular JavaScript library for building user interfaces, and utilizes the Framer Motion library to implement smooth and engaging animations that enhance the user experience. The application aims to streamline administrative tasks and improve overall efficiency in user management.
